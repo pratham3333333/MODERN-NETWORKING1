@@ -1,11 +1,6 @@
-Absolutely, Vijay! Here's a **professionally structured and modern networking terminology-based README** for your **Mobile Networks Internal Questions**—ideal for exams, study materials, or even a personal repository. It uses modern concepts and up-to-date technical terms with elaboration, emojis, diagrams (in text form), and real-world use cases.
 
----
 
-# 📘 Mobile Networks – Internal Exam Preparation  
-**🧑‍💻 Author:** Vijay Dubey  
-**📆 Date:** 09/04/2025  
-**📚 Subject:** Mobile Networks (MN)  
+**📚 Subject:** Modern Networks (MN)  
 **📝 Type:** Internal Questions – 6 Marks Each
 
 ---
